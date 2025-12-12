@@ -1,0 +1,40 @@
+
+{
+  "friends": [
+    [
+      "Matsuzaka Yuki",
+      "https://blog.mysqil.com",
+      "https://blog.mysqil.com/_astro/avatar.D239-k4C_ZU0B2r.webp"
+    ],
+    [
+      "Xiaozhang",
+      "https://hub.xiaozhangya.xin",
+      "https://hub.xiaozhangya.xin/profile.png"
+    ],
+    [
+      "安知鱼",
+      "https://blog.zhheo.com/",
+      "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+    ],
+    [
+      "梦爱吃鱼",
+      "https://blog.anheyu.com/",
+      "https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg"
+    ],
+    [
+      "清羽飞扬",
+      "https://blog.liushen.fun/",
+      "https://blog.liushen.fun/info/avatar.ico"
+    ],
+    [
+      "纸鹿本鹿",
+      "https://blog.zhilu.site/",
+      "https://cdn.jsdelivr.net/gh/mcyzsx/picx-images-hosting@master/links/image.8ok4l9tqge.webp"
+    ],
+    [
+      "ATao",
+      "https://blog.zhilu.site/",
+      "https://cdn.jsdelivr.net/gh/mcyzsx/picx-images-hosting@master/links/image.8ok4l9tqge.webp"
+    ]
+  ]
+}
